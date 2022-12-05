@@ -82,7 +82,7 @@ from matplotlib import pyplot as plt
 #
 # cv2.imwrite("C:\\Users\\my2b309\\Desktop\\pattern\\B.png",img1)
 
-# ################################################计算色坐标
+################################################计算色坐标
 
 # sR, sG and sB (Standard RGB) input range = 0 ÷ 255
 # X, Y and Z output refer to a D65/2° standard illuminant
