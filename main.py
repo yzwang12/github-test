@@ -61,8 +61,8 @@ plt.imshow(img1)
 plt.show()
 
 cv2.imwrite("C:\\Users\\my2b309\\Desktop\\1234.png",img1)
-
-
+####################
+#######################
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
